@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- app-icon background -->
+  <rect width="1024" height="1024" rx="224" fill="#3B1D5A"/>
+
+  <!-- shadow under the proposal -->
+  <rect x="278" y="248" width="500" height="600" rx="44" fill="#24103B"/>
+
+  <!-- proposal card -->
+  <rect x="262" y="232" width="500" height="600" rx="44" fill="#FDF8FF"/>
+
+  <!-- header accent + title -->
+  <rect x="302" y="292" width="180" height="28" rx="14" fill="#A3E635"/>
+  <rect x="302" y="344" width="300" height="16" rx="8" fill="#D8C7EA"/>
+
+  <!-- pricing option one -->
+  <rect x="302" y="400" width="420" height="86" rx="20" fill="#EFE3F8"/>
+  <rect x="332" y="428" width="150" height="16" rx="8" fill="#B9A3D0"/>
+  <rect x="600" y="428" width="86" height="16" rx="8" fill="#B9A3D0"/>
+
+  <!-- pricing option two, selected -->
+  <rect x="302" y="505" width="420" height="86" rx="20" fill="#A3E635"/>
+  <polygon points="352,548 376,572 424,522 410,508 376,546 366,536" fill="#3B1D5A"/>
+  <rect x="448" y="531" width="120" height="16" rx="8" fill="#3B1D5A"/>
+  <rect x="600" y="531" width="86" height="16" rx="8" fill="#3B1D5A"/>
+
+  <!-- pricing option three -->
+  <rect x="302" y="610" width="420" height="86" rx="20" fill="#EFE3F8"/>
+  <rect x="332" y="638" width="170" height="16" rx="8" fill="#B9A3D0"/>
+  <rect x="600" y="638" width="86" height="16" rx="8" fill="#B9A3D0"/>
+</svg>
